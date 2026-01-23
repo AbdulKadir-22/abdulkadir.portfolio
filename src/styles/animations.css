@@ -1,0 +1,43 @@
+.reveal {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: all 0.8s ease;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@keyframes pulse {
+    0% { opacity: 0.8; }
+    50% { opacity: 1; }
+    100% { opacity: 0.8; }
+}
+
+.toast-container {
+  position: fixed;
+  top: 100px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-20px);
+  background: #333;
+  color: var(--coc-yellow);
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  border: 3px solid #fff;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: 'Luckiest Guy';
+  font-size: 1.2rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+  opacity: 0;
+  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  pointer-events: none;
+}
+
+.toast-container.show {
+  transform: translateX(-50%) translateY(0);
+  opacity: 1;
+}

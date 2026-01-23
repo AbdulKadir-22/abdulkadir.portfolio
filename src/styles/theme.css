@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito:wght@400;600;700;800;900&display=swap');
+
+:root {
+  --coc-orange: #ffb900;
+  --coc-yellow: #fff36d;
+  --coc-wood-dark: #3d2208;
+  --coc-wood-mid: #68380c;
+  --coc-stone: #959ea6;
+  --coc-stone-dark: #5e666e;
+  --coc-green-btn: #81c02e;
+  --coc-elixir: #d32ce6;
+  --coc-bg-grass: #6eb028;
+}
+
+/* Typography */
+h1, h2, h3, .coc-font {
+  font-family: 'Luckiest Guy', cursive;
+  letter-spacing: 1.5px;
+  text-shadow: 2px 2px 0 #000;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.card-heading {
+    color: #000 !important;
+    text-shadow: 1px 1px 0 rgba(255,255,255,0.5) !important;
+}

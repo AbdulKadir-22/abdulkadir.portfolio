@@ -1,0 +1,28 @@
+[
+  {
+    "id": "civveo",
+    "title": "Civveo",
+    "category": "Startup",
+    "subtitle": "HYPERLOCAL DISCOVERY",
+    "description": "A local alternative to Blinkit/Amazon helping users discover local products. Shark Tank India pitch ready.",
+    "tags": ["Flutter", "Firebase", "Business"],
+    "iconKey": "Smartphone",
+    "iconBgColor": "#1e3a8a",
+    "iconColor": "#93c5fd",
+    "demoLink": "https://civveo.site",
+    "repoLink": "#"
+  },
+  {
+    "id": "becoming",
+    "title": "Be;coming",
+    "category": "App",
+    "subtitle": "PRIVATE JOURNALING",
+    "description": "A Flutter-based digital diary focused on privacy and personal growth.",
+    "tags": ["Flutter", "Dart", "UI/UX"],
+    "iconKey": "Book",
+    "iconBgColor": "#701a75",
+    "iconColor": "#f0abfc",
+    "demoLink": "#",
+    "repoLink": "#"
+  }
+]

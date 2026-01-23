@@ -1,0 +1,32 @@
+{
+  "frontend": [
+    "Flutter",
+    "Dart",
+    "React",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "TailwindCSS"
+  ],
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "Python",
+    "Django",
+    "Flask",
+    "Java",
+    "Firebase",
+    "Google Cloud",
+    "MongoDB",
+    "MySQL",
+    "SQLite",
+    "JWT"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "Postman",
+    "Figma",
+    "Notion"
+  ]
+}

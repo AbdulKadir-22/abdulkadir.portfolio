@@ -48,7 +48,7 @@ const About = ({ addToRefs }) => {
                     <div>
                       <div style={{fontSize: '0.8rem', color: '#888', fontWeight: 'bold'}}>FOCUS</div>
                       <div style={{color: '#333', fontWeight: 'bold', display: 'flex', alignItems: 'center', gap: '5px'}}>
-                        <Star size={16} color="#d38b08"/> Flutter
+                        <Star size={16} color="#d38b08"/> Civveo
                       </div>
                     </div>
                   </div>

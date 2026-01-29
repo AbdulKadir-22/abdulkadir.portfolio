@@ -7,8 +7,8 @@
     "description": "A local alternative to Blinkit/Amazon helping users discover local products. Shark Tank India pitch ready.",
     "tags": ["Flutter", "Firebase", "Business"],
     "iconKey": "Smartphone",
-    "iconBgColor": "#1e3a8a",
-    "iconColor": "#93c5fd",
+    "iconBgColor": "#064e3b",
+    "iconColor": "#6ee7b7",
     "demoLink": "https://civveo.site",
     "repoLink": "https://github.com/AbdulKadir-22/civveo-frontend.git"
   },
@@ -20,9 +20,35 @@
     "description": "A Flutter-based digital diary focused on privacy and personal growth.",
     "tags": ["Flutter", "Dart", "UI/UX"],
     "iconKey": "Book",
-    "iconBgColor": "#701a75",
-    "iconColor": "#f0abfc",
-    "demoLink": "#",
-    "repoLink": "#"
+    "iconBgColor": "#1e3a8a",
+    "iconColor": "#93c5fd",
+    "demoLink": "https://github.com/AbdulKadir-22/BeComing-Journal.git",
+    "repoLink": "https://github.com/AbdulKadir-22/BeComing-Journal.git"
+  },
+  {
+    "id": "Steacly",
+    "title": "Steacly",
+    "category": "Time-Management",
+    "subtitle": "Tracking & Analytics",
+    "description": "A time tracking and analytics app built with Flutter and Localstorage.",
+    "tags": ["Flutter", "Localstorage", "Time-Management"],
+    "iconKey": "Clock",
+    "iconBgColor": "#f3e8ff",
+    "iconColor": "#a855f7",
+    "demoLink": "https://github.com/AbdulKadir-22/Streacly.git",
+    "repoLink": "https://github.com/AbdulKadir-22/Streacly.git"
+  },
+  {
+    "id": "portyours",
+    "title": "Portyours",
+    "category": "Templates",
+    "subtitle": "Portfolio website templates",
+    "description": "A collection of modern, responsive portfolio website templates built with React and Tailwind CSS.",
+    "tags": ["React", "Tailwind CSS", "Templates"],
+    "iconKey": "Layout",
+    "iconBgColor": "#fff7ed",
+    "iconColor": "#f97316",
+    "demoLink": "https://portyours.vercel.app",
+    "repoLink": "https://github.com/AbdulKadir-22/portyours.git"
   }
 ]

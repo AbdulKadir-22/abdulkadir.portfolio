@@ -3,27 +3,27 @@
     "id": 1,
     "title": "A Month of Silence",
     "description": "If i don’t show up, I Disappear",
-    "date": "10d ago",
-    "tag": "ANNOUNCEMENT",
-    "tagColor": "#d9534f",
+    "date": "January 15, 2026",
+    "tag": "CIVVEO",
+    "tagColor": "#004D40", 
     "link": "https://medium.com/@akadir22086/a-month-of-silence-and-the-work-that-spoke-back-d54b09abf1db"
   },
   {
     "id": 2,
-    "title": "Flutter vs Native",
-    "description": "Why I chose Flutter for Be:coming and the trade-offs I faced.",
-    "date": "1w ago",
-    "tag": "TECH",
-    "tagColor": "#4a9eff",
-    "link": "#"
+    "title": "The Cost of Becoming",
+    "description": "Ten Days That Changed Me",
+    "date": "December 16, 2025",
+    "tag": "LIFE",
+    "tagColor": "#1A1A1A",
+    "link": "https://ariont.hashnode.dev/ten-days-that-changed-me"
   },
   {
     "id": 3,
-    "title": "GSoC Roadmap",
-    "description": "How I am preparing for Google Summer of Code with Zulip.",
-    "date": "2w ago",
-    "tag": "CAREER",
-    "tagColor": "#ffb900",
-    "link": "#"
+    "title": "Ooniverse — The Project That Refused to Die",
+    "description": "A unified student dashboard, a broken dream rebuilt, and a founder learning to rise again.",
+    "date": "November 16, 2025",
+    "tag": "OONIVERSE",
+    "tagColor": "#B7F0C1",
+    "link": "https://ariont.hashnode.dev/ooniverse-the-project-that-refused-to-die"
   }
 ]

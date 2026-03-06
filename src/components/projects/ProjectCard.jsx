@@ -1,10 +1,12 @@
 import React from 'react';
-import { Smartphone, Book, Layout, ExternalLink, Github } from 'lucide-react';
+import { Smartphone, Book, Layout, ExternalLink, Github, MoonStar, Timer } from 'lucide-react';
 
 const IconMap = {
   Smartphone,
   Book,
-  Layout
+  Layout,
+  MoonStar,
+  Timer,
 };
 
 const ProjectCard = ({ project }) => {

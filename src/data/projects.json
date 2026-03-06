@@ -9,8 +9,21 @@
     "iconKey": "Smartphone",
     "iconBgColor": "#064e3b",
     "iconColor": "#6ee7b7",
-    "demoLink": "https://civveo.site",
+    "demoLink": "https://civveo.in",
     "repoLink": "https://github.com/AbdulKadir-22/civveo-frontend.git"
+  },
+  {
+    "id": "ramazaan-tracker",
+    "title": "Ramazaan Tracker",
+    "category": "Mobile App",
+    "subtitle": "A digital companion for tracking daily Ramadan Amaal",
+    "description": "A mobile app designed to help Muslims stay consistent with their daily Amaal during Ramadan. Users can track acts of worship, monitor their spiritual progress, and build better consistency throughout the holy month.",
+    "tags": ["Flutter", "Mobile App", "Productivity"],
+    "iconKey": "MoonStar",
+    "iconBgColor": "#ecfdf5",
+    "iconColor": "#10b981",
+    "demoLink": "https://play.google.com/store/apps/details?id=in.abdulkadir.ramazaan_tracker",
+    "repoLink": "https://github.com/AbdulKadir-22/Ramazaan-Amaal.git"
   },
   {
     "id": "becoming",
@@ -26,13 +39,13 @@
     "repoLink": "https://github.com/AbdulKadir-22/BeComing-Journal.git"
   },
   {
-    "id": "Steacly",
-    "title": "Steacly",
+    "id": "Streacly",
+    "title": "Streacly",
     "category": "Time-Management",
     "subtitle": "Tracking & Analytics",
     "description": "A time tracking and analytics app built with Flutter and Localstorage.",
     "tags": ["Flutter", "Localstorage", "Time-Management"],
-    "iconKey": "Clock",
+    "iconKey": "Timer",
     "iconBgColor": "#f3e8ff",
     "iconColor": "#a855f7",
     "demoLink": "https://github.com/AbdulKadir-22/Streacly.git",
@@ -50,5 +63,19 @@
     "iconColor": "#f97316",
     "demoLink": "https://portyours.vercel.app",
     "repoLink": "https://github.com/AbdulKadir-22/portyours.git"
+  },
+  {
+    "id": "amtics-ai-chatbot",
+    "title": "Amtics AI",
+    "category": "AI Application",
+    "subtitle": "RAG-based academic chatbot with admin knowledge management",
+    "description": "An AI-powered academic chatbot that answers student queries using institutional documents. Built with a RAG pipeline, the system retrieves information from uploaded PDFs and files. Administrators can manage and update the knowledge base through an integrated admin dashboard.",
+    "tags": ["RAG", "AI Chatbot", "React", "Node.js"],
+    "iconKey": "BrainCircuit",
+    "iconBgColor": "#eff6ff",
+    "iconColor": "#2563eb",
+    "demoLink": "https://amtics.abdulkadir.in",
+    "repoLink": "https://github.com/AbdulKadir-22/amtics-chatbot.git"
   }
+  
 ]
